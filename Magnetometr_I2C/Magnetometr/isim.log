@@ -1,0 +1,81 @@
+ISim log file
+Running: C:\Users\pluci\Desktop\najnowszy190522\Magnetometr\MagnetoSchematic_MagnetoSchematic_sch_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/pluci/Desktop/najnowszy190522/Magnetometr/MagnetoSchematic_MagnetoSchematic_sch_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 1000us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+[I2C 1.3101 us] START condition
+[I2C 21.9301 us] address byte: 3C
+[I2C 44.4301 us] byte received: 0A
+[I2C 49.4301 us] STOP condition
+[I2C 51.3501 us] START condition
+[I2C 71.9701 us] address byte: 3D
+[I2C 97.6051 us] byte transmitted: 01, NACK in response
+[I2C 101.4501 us] START condition
+[I2C 122.0701 us] address byte: 3C
+[I2C 144.5701 us] byte received: 00
+[I2C 149.5701 us] STOP condition
+[I2C 151.4901 us] START condition
+[I2C 172.1101 us] address byte: 3C
+[I2C 194.6101 us] byte received: 10
+[I2C 199.6101 us] STOP condition
+[I2C 201.5701 us] START condition
+[I2C 222.1901 us] address byte: 3C
+[I2C 244.6901 us] byte received: 02
+[I2C 267.1901 us] byte received: 00
+[I2C 272.1901 us] STOP condition
+[I2C 274.1101 us] START condition
+[I2C 294.7301 us] address byte: 3D
+[I2C 320.3651 us] byte transmitted: 01, NACK in response
+[I2C 324.2501 us] START condition
+[I2C 344.8701 us] address byte: 3D
+[I2C 370.5051 us] byte transmitted: 01, NACK in response
+[I2C 374.3901 us] START condition
+[I2C 395.0101 us] address byte: 3D
+[I2C 420.6451 us] byte transmitted: 01, NACK in response
+[I2C 424.5301 us] START condition
+[I2C 445.1501 us] address byte: 3D
+[I2C 470.7851 us] byte transmitted: 01, NACK in response
+[I2C 474.6701 us] START condition
+[I2C 495.2901 us] address byte: 3D
+[I2C 520.9251 us] byte transmitted: 01, NACK in response
+[I2C 524.8101 us] START condition
+[I2C 545.4301 us] address byte: 3D
+[I2C 571.0651 us] byte transmitted: 01, NACK in response
+[I2C 574.9501 us] START condition
+[I2C 595.5701 us] address byte: 3D
+[I2C 621.2051 us] byte transmitted: 01, NACK in response
+[I2C 625.0901 us] START condition
+[I2C 645.7101 us] address byte: 3D
+[I2C 671.3451 us] byte transmitted: 01, NACK in response
+[I2C 675.2301 us] START condition
+[I2C 695.8501 us] address byte: 3D
+[I2C 721.4851 us] byte transmitted: 01, NACK in response
+[I2C 725.3701 us] START condition
+[I2C 745.9901 us] address byte: 3D
+[I2C 771.6251 us] byte transmitted: 01, NACK in response
+[I2C 775.5101 us] START condition
+[I2C 796.1301 us] address byte: 3D
+[I2C 821.7651 us] byte transmitted: 01, NACK in response
+[I2C 825.6501 us] START condition
+[I2C 846.2701 us] address byte: 3D
+[I2C 871.9051 us] byte transmitted: 01, NACK in response
+[I2C 875.7901 us] START condition
+[I2C 896.4101 us] address byte: 3D
+[I2C 922.0451 us] byte transmitted: 01, NACK in response
+[I2C 925.9301 us] START condition
+[I2C 946.5501 us] address byte: 3D
+[I2C 972.1851 us] byte transmitted: 01, NACK in response
+[I2C 976.0701 us] START condition
+[I2C 996.6901 us] address byte: 3D

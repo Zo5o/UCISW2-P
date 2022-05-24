@@ -1,0 +1,21 @@
+Oddawanie projektu:
+
+działjaacy sprzet,
+pliki z ise,
+demonstracja projektu,
+dokumentacja w wersji papierowej,
+
+
+Dokumentacja:
+
+wprowadzenie:
+-temat,
+-pełen zakres projektu,
+-krótka teoretyczna dokumentacja tehcniczna,
+-opis sprzętu,
+-schemat, screen z hierarchii plików, 
+-opisy modułów (lista we/wy i ich opis, co się znajduje w środku) bez listingów slowny opis (grafy maszyn stanów),
+-symulacje,
+
+implementaca:
+-podręcznik obsługi urządzenia,

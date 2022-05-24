@@ -1,0 +1,15 @@
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Desktop/Slezak_Pluciennik/Magnetometr.sym 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Documents/Studia/UCiSW/Slezak_Pluciennik/Magnetometr.sym 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Documents/Studia/UCiSW/Slezak_Pluciennik/Magnetometr.sym 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Documents/Studia/UCiSW/Slezak_Pluciennik/Magnetometr.sym 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Documents/Studia/UCiSW/Slezak_Pluciennik/Magnetometr.sym 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Documents/Studia/UCiSW/Slezak_Pluciennik/Magnetometr.sym 
+vhdtdtfi -lib work Magnetometr.vhd -prj Slezak_Pluciennik -o Magnetometr.spl -module Magnetometr -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Magnetometr.spl C:/Users/pluci/Documents/Studia/UCiSW/Slezak_Pluciennik/Magnetometr.sym 

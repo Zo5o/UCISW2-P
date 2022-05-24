@@ -1,0 +1,4 @@
+# Magnetometer GY-273 connected to Header J4 (Spartan-3E Starter Board)
+NET "DRDY" LOC = "C7"  | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 6;
+NET "SDA"  LOC = "F8"  | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 6;
+NET "SCL"  LOC = "E8"  | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 6;

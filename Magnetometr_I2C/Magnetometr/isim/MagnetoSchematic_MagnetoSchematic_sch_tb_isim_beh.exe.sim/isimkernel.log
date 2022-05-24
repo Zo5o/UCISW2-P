@@ -1,0 +1,30 @@
+Command line:
+   MagnetoSchematic_MagnetoSchematic_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54910
+
+Tue May 24 11:27:54 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5154.86 Meg
+
+ Total Signals          : 1279
+ Total Nets             : 642
+ Total Signal Drivers   : 321
+ Total Blocks           : 224
+ Total Primitive Blocks : 221
+ Total Processes        : 303
+ Total Traceable Variables  : 418
+ Total Scalar Nets and Variables : 9011
+Total Line Count : 1168
+Total Line Count : 1168
+
+ Total Simulation Time: 0.6875 sec
+
+ Current Memory Usage: 4997.57 Meg
+
+Tue May 24 11:28:54 2022
+

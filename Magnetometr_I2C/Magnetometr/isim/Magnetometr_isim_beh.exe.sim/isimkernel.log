@@ -1,0 +1,29 @@
+Command line:
+   Magnetometr_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54435
+
+Tue May 24 11:11:28 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.22 Meg
+
+ Total Signals          : 24
+ Total Nets             : 199
+ Total Signal Drivers   : 17
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 559
+Total Line Count : 75
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5150.22 Meg
+
+Tue May 24 11:11:39 2022
+
